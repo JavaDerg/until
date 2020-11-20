@@ -3,7 +3,9 @@ name = "until"
 version = "0.1.0"
 authors = ["Postrex <post-rex@pm.me>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "This crates provides a iter that will only continue of a specified time hasn't passed or the inner one isn't empty"
+licence = "MIT"
+repository = "https://github.com/post-rex/until.git/
+documentation = "https://docs.rs/until"
 
 [dependencies]
